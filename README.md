@@ -1,6 +1,12 @@
 # 日志
+从2018年注册了CSDN账号后，陆续续写了一些博客，但大部分都是上网查资料解决的，防止忘记用博客记录。网上找不到的解决方案，自己独立解决并写完发布的博客都能得到大家的认可。这说明原创实属不易，前人走过的坑，让后人少走弯路。2021-10-12，我完成了在GitHub上写博客的小愿望，至少不用接收外界的广告。
 
-我的个人博客：<https://blog.csdn.net/weixin_43849871?spm=1000.2115.3001.5343>，欢迎 Star 和 Fork。
+搭建GitHub博客的步骤：
+1. 新创建一个个人仓库，可参考[知乎：会飞的猪](https://zhuanlan.zhihu.com/p/28321740)
+2. clone[苜蓿鬼仙](https://github.com/jijiucheng/jijiucheng.github.io)的仓库，更换博客模板
+
+
+我的个人CSDN博客：<https://blog.csdn.net/weixin_43849871?spm=1000.2115.3001.5343>，欢迎 点赞 和 收藏。
 
 
 ## 经验与思考
@@ -19,10 +25,14 @@
 
 * 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
 
-## 联系我
 
+## 参考资料
+[苜蓿鬼仙的搭建个人博客](https://juejin.cn/post/6844904135033110541)
+[GitHub博客模板clone](https://github.com/jijiucheng/jijiucheng.github.io)
+[获取clientID和clientSecret](https://github.com/settings/developers)
 
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
+![image](https://user-images.githubusercontent.com/44183747/136946464-fed4dda8-26e2-43e9-aff0-736ecbdafef8.png)
+
 
 ## 致谢
 
