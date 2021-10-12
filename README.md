@@ -1,4 +1,4 @@
-:running:bga_issue_blog:running:
+:running:Evan_issue_blog:running:
 ============
 
 * 当前为 Flutter 版本，一套代码支持 Android、iOS、Web、Desktop，[点击进行预览](http://issues.bingoogolapple.cn)
