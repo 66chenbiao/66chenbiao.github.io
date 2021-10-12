@@ -130,8 +130,8 @@ gitment:
 gitalk:
     owner: 66chenbiao
     repo: 66chenbiao.github.io
-    clientID: 359b06ea524a7700164d
-    clientSecret: 306575c0f8ef949e860ca7012153ea30580a1502
+    clientID: df47334c53fd0f33bcb2
+    clientSecret: 90393491e0801ad7dceee9cc84c56c49c9c351ac
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
