@@ -1,5 +1,5 @@
 // https://github.com/ghiculescu/jekyll-table-of-contents
-// Updated by https://mazhuang.org
+// Updated by http://mazhuang.org
 (function($){
   $.fn.toc = function(options) {
     var defaults = {
@@ -20,9 +20,6 @@
     }
 
     var headers = $(settings.headers).filter(function() {
-      if ($(this).parent('blockquote').length > 0) {
-        return false;
-      }
       // get all headers with an ID
       var previousSiblingName = $(this).prev().attr( "name" );
       if (!this.id && previousSiblingName) {
