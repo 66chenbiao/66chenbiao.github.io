@@ -45,7 +45,7 @@ b. clone[苜蓿鬼仙](https://github.com/jijiucheng/jijiucheng.github.io)的仓
 随后跳转到该库界面,由于我是搭建好的，所以会有项目文件。
 ![image](https://user-images.githubusercontent.com/44183747/136947823-70db26f7-3946-476a-b967-6e86f1636447.png)
 
-3.接下来，就该去下载GitHub桌面版了，为什么使用桌面版呢，因为简单，适合小白，没那么多命令行。官网下载可能有一些慢，这里是我下好的：链接：http://pan.baidu.com/s/1bpkzaKB 密码：mwgm。
+3.接下来，就该去下载GitHub桌面版了，为什么使用桌面版呢，因为简单，适合小白，没那么多命令行。官网下载可能有一些慢，这里是我下好的：链接：[http://pan.baidu.com/s/1bpkzaKB](http://pan.baidu.com/s/1bpkzaKB) 密码：mwgm。
 
 下载下来后，打开用自己的用户名登录。然后选择File下的Clone repositories.
 ![image](https://user-images.githubusercontent.com/44183747/136948221-82abc2be-9b9a-4805-a1dc-f4d4fdf079bc.png)
