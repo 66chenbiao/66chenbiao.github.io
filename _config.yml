@@ -124,14 +124,14 @@ gitment:
     owner: 66chenbiao
     repo: 66chenbiao.blog_comments
     oauth:
-        client_id: df47334c53fd0f33bcb2
-        client_secret: 90393491e0801ad7dceee9cc84c56c49c9c351ac
+        client_id: ecc3c0bc503d8a6e4f45
+        client_secret: 0550bef413d007a80bf9a68e41290dea8382544b
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 66chenbiao
     repo: 66chenbiao.blog_comments
-    clientID: df47334c53fd0f33bcb2
-    clientSecret: 90393491e0801ad7dceee9cc84c56c49c9c351ac
+    clientID: ecc3c0bc503d8a6e4f45
+    clientSecret: 0550bef413d007a80bf9a68e41290dea8382544b
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
