@@ -148,7 +148,8 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: G-2Q506J7PYY
+    analytics_id: UA-80669434-1
+    # G-2Q506J7PYY
     adsense:
         footer: true
         sidebar: true
