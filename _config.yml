@@ -122,14 +122,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 66chenbiao
-    repo: 66chenbiao.github.io
+    repo: 66chenbiao.blog_comments
     oauth:
-        client_id: 0c478d9a528799ea0055
-        client_secret: 814f60320dfdcafe2a4bca07e978e52cef309f61
+        client_id: df47334c53fd0f33bcb2
+        client_secret: 90393491e0801ad7dceee9cc84c56c49c9c351ac
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 66chenbiao
-    repo: 66chenbiao.github.io
+    repo: 66chenbiao.blog_comments
     clientID: df47334c53fd0f33bcb2
     clientSecret: 90393491e0801ad7dceee9cc84c56c49c9c351ac
 # 在使用其它评论组件时可点击显示 Disqus
