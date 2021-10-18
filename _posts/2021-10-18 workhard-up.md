@@ -3,7 +3,7 @@ layout: post
 title: 没事做的时候，会急着找事做
 categories: GitHub
 description: 个人日常记录
-keywords: 个人博客, GitHub
+keywords: 个人博客, 发牢骚
 ---
 
 早上把验证工具的相关文档给写好了，没多少内容。那种不知道需求想需求并实现需求的我，像极了无头苍蝇乱飞乱撞，不知所措。手机招聘软件里不断给你推送的外包公司，整日给你说道。
