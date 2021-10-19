@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 朋友圈的那些事
-categories: GitHub
+categories: 日记
 description: 朋友圈，公众号，充斥着解决痛点的广告。看官无聊向下滑动，文案中的某个字眼触动了你，你想解决某个问题吗？然后你去购买课程，缺少了输出。
 keywords: 文案, 朋友圈, 公众号
 ---
