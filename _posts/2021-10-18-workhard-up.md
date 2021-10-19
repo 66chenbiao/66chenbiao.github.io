@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 没事做的时候，会急着找事做
-categories: GitHub
+categories: 日记
 description: 个人日常记录
 keywords: 个人博客, 发牢骚
 ---
